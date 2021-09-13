@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my course
 
-- 🌱 I’m currently learning **MySQL,ML**
+- 🌱 I’m currently learning **Linux,Networking security**
 
 - 💬 Ask me about **anything**
 
