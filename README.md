@@ -4,15 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasai-maragani&label=Profile%20views&color=0e75b6&style=flat" alt="sivasai-maragani" /> </p>
 
 
-- 🔭 I’m currently working on my course
+- 🔭 I’m currently working on RedTeaming
 
-- 🌱 I’m currently learning **Linux,Networking security**
+- 🌱 I’m currently learning **Linux Privilage Escolation,Network security,Javascript**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **VAPT**
 
-- 📫 How to reach me **sivasaimaragani.2001@gmail.com**
-
-- ⚡ Fun fact **I am HAPPY!!**
+- 📫 How to reach me **whoami0612@protonmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
