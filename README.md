@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on RedTeaming
 
-- 🌱 I’m currently learning **Linux Privilage Escolation,Network security,Javascript**
+- 🌱 I’m currently learning **Linux Privilege Escalation,Network security,Javascript**
 
 - 💬 Ask me about **VAPT**
 
