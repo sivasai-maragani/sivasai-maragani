@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **VAPT**
 
-- 📫 How to reach me **sivasaimaragani@gmaiol.com**
+- 📫 How to reach me **sivasaimaragani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
